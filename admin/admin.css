@@ -1,0 +1,8 @@
+.fcc-table td{vertical-align:middle;}
+.drag{cursor:move;user-select:none;}
+.icon-ctl{display:flex;align-items:center;gap:10px;flex-wrap:nowrap;}
+.icon-preview-col{text-align:center;}
+.icon-preview{width:50px;height:50px;border-radius:50%;overflow:hidden;box-shadow:0 6px 14px rgba(0,0,0,.12);border:3px solid #fff;margin:0 auto;background:linear-gradient(145deg, rgba(0,0,0,.04), rgba(0,0,0,.08));}
+.icon-preview img{width:100%;height:100%;object-fit:cover;display:block;border-radius:50%;}
+.pos label{margin-right:8px;}
+
